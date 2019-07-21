@@ -1,4 +1,4 @@
-# 段子驱动培训(Cross-talk Driver Training)
+# 段子驱动培训(Cross-talk Driven Training)
 
 **为培训师的你，如果在你培训过程中，遇到了下面的问题：**
 
